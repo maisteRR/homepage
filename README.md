@@ -12,7 +12,7 @@ You can see what is it in several ways:
 🚩 run index.html from explorer<br/>
 🚩 open main page of this repository and go to GitHub pages<br/>
 
-For last two methods please make sure you download repository files and have its localy. 
+For first two methods please make sure you download repository files and have its localy. 
 
 REQUIREMENTS
 ------------
