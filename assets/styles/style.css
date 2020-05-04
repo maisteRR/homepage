@@ -1,0 +1,20 @@
+/* contact icons changes*/
+.contacts li a.instagram:hover {
+    color: #c13584;
+}
+.contacts li a.linkedin:hover {
+    color: #0e76a8;
+}
+
+.contacts li a.phone:hover {
+    color: #008000;
+}
+.contacts li a.mail:hover {
+    color: #D44638;
+}
+/*------------------------*/
+
+/* avatar sizing */
+.avatar{
+    max-width: 10rem;
+}
