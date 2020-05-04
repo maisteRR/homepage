@@ -33,4 +33,6 @@ I have been wanting to create a resume for a long time in order to clarify for m
 THAT'S All
 -----------
 
-Thanks for reading ❤️
+Thanks for reading ❤  
+️
+🧙Hocus-pocus!
