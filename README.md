@@ -34,5 +34,3 @@ THAT'S All
 -----------
 
 Thanks for reading ❤  
-️
-🧙Hocus-pocus!
