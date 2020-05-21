@@ -66,6 +66,9 @@
 .accessibility svg {
     margin: 20px;
 }
+.accessibility svg path{
+    pointer-events: none;
+}
 
 .accessibility-icon {
     cursor: pointer;
