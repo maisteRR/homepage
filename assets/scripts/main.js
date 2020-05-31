@@ -1,11 +1,12 @@
-const accessibility = document.querySelector('.accessibility');
-const fontSize = document.querySelector('#font-size');
 const colorInversion = document.querySelector('#color-inversion');
 const languageSwitch = document.querySelector('#language-switch');
+const accessibility = document.querySelector('.accessibility');
+const fontSize = document.querySelector('#font-size');
 
 const cancelRandomSelection = (e) =>{
     e.preventDefault();
 }
+
 
 const changeFontSize = () =>{
     const currentSize = parseInt(getComputedStyle(document.body, null).getPropertyValue("font-size"));
@@ -46,5 +47,4 @@ const changeSettings = (e) =>{
     }
 }
 accessibility.addEventListener("mousedown", cancelRandomSelection);
-
 accessibility.addEventListener("click", changeSettings, false);
